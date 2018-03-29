@@ -17,7 +17,6 @@ func main() {
 </html>
 `
 	fmt.Println(tpl)
-
 }
 
 /*
